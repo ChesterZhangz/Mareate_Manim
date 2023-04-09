@@ -15,7 +15,7 @@
 
 - **英文字幕**： @Chester_Zhang 
 
-- **内容策划**： @月光 
+- **内容策划**： @Chester_Zhang 、@月光 
 
 - **视频制作**： @Chester_Zhang 
 
