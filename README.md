@@ -17,13 +17,13 @@
 
 - **内容策划**： @Chester_Zhang 、@月光 
 
-- **视频制作**： @Chester_Zhang 
+- **视频制作**： @Chester_Zhang 、 @KaiFeng_Chen 、 @李泰希 
 
 - **视频配音**： @Chester_Zhang 
 
 - **视频配乐**： @月光 
 
-- **视频剪辑**： @Chester_Zhang 
+- **视频剪辑**： @Chester_Zhang 、 @月光 、 @李泰希 、 @KaiFeng_Chen 
 
 - **视频审核**： @Chester_Zhang 、@李泰希 、 @月光 、 
 
